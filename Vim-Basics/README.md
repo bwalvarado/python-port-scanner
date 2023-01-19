@@ -67,7 +67,7 @@ Basic vim cheatsheet to get you started.
 ## Cut, Copy, Paste
 `y` yank from here
 
-`yy` copy the current line
+`yy` yank the current line
 
 `p` Paste
 
@@ -78,7 +78,7 @@ Basic vim cheatsheet to get you started.
 ## Undo/Redo
 `u` undo
 
-`ctrl r` redo
+`ctrl-r` redo
 
 ## Buffer
 `:b` go to buffer

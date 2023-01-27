@@ -176,7 +176,7 @@ set mouse=a
 " Auto indent new line
 set autoindent
 
-" Number is auto ident spaces
+" Auto indent spaces
 set shiftwidth=4
 
 " Set tabs to 4

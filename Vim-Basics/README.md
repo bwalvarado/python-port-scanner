@@ -196,5 +196,8 @@ set hlsearch
 
 " Set color scheme
 colorscheme desert
+
+" Turn syntax highlighting on
+syntax on
 ```
 
